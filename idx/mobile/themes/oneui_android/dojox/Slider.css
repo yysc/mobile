@@ -1,0 +1,8 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/Slider.css);
+
+/* Reset common styles. */
+.oneui .mblSlider,
+.oneui .mblSlider * {
+	font-family:Roboto;
+}

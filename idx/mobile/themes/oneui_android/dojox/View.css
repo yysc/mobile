@@ -1,0 +1,9 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/View.css);
+
+/* Reset common styles. */
+.oneui .mblView,
+.oneui .mblScrollBarWrapper,
+.oneui .mblScrollBarWrapper * {
+	font-family:Roboto;
+}

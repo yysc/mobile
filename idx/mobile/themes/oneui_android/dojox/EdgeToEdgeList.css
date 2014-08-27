@@ -1,0 +1,7 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/EdgeToEdgeList.css);
+
+/* Reset common styles. */
+.oneui .mblEdgeToEdgeList {
+	font-family:Roboto;
+}

@@ -1,0 +1,16 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/Carousel.css);
+
+/* Reset common styles. */
+.oneui .mblCarousel,
+.oneui .mblCarouselHeaderBar,
+.oneui .mblCarouselHeaderBar *,
+.oneui .mblCarouselPages,
+.oneui .mblCarouselItem,
+.oneui .mblCarouselItem * {
+	font-family:Roboto;
+}
+
+.oneui .mblCarouselBtn {
+	font-family:Roboto;
+}

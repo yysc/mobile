@@ -1,0 +1,7 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/FixedSplitter.css);
+
+/* Reset common styles. */
+.oneui .mblFixedSplitter {
+	font-family:Roboto;
+}

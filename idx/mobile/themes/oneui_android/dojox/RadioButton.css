@@ -1,0 +1,7 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/RadioButton.css);
+
+/* Reset common styles. */
+.oneui .mblRadioButton {
+	font-family:Roboto;
+}

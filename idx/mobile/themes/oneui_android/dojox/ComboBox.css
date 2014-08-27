@@ -1,0 +1,9 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/ComboBox.css);
+
+/* Reset common styles. */
+.oneui .mblComboBoxMenu, 
+.oneui .mblComboBoxMenuPopup, 
+.oneui .mblComboBoxMenuPopup * {
+	font-family:Roboto;
+}

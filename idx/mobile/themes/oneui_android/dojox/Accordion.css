@@ -1,0 +1,9 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/Accordion.css);
+
+/* Reset common styles. */
+.oneui .mblAccordion,
+.oneui .mblAccordionTitle,
+.oneui .mblAccordionTitle * {
+	font-family:Roboto;
+}

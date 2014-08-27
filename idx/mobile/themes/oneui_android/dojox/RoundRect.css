@@ -1,0 +1,9 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/RoundRect.css);
+
+/* Reset common styles. */
+.oneui .mblRoundRect,
+.oneui .mblRoundRectContainer,
+.oneui .mblRoundCorner {
+	font-family:Roboto;
+}

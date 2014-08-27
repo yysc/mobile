@@ -1,0 +1,14 @@
+/* delegate to oneui common theme */
+@import url(../../common/idx/Login.css);
+
+.mblIdxLoginDialog .mblIdxProductName {
+	font-family:Roboto;
+}
+
+.mblIdxLoginDialog .mblIdxAlert {
+	font-family:Roboto;
+}
+
+.mblIdxLoginDialog .mblIdxLegal {
+	font-family:Roboto;
+}

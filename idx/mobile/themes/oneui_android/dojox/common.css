@@ -1,0 +1,35 @@
+/*
+ * Licensed Materials - Property of IBM
+ * (C) Copyright IBM Corp. 2010, 2012 All Rights Reserved
+ * US Government Users Restricted Rights - Use, duplication or
+ * disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+ */
+
+@import url(../../common/dojox/common.css);
+
+/* Colors for buttons when used in a Heading. */
+.oneui .mblHeading .mblColorDefault {
+	color: #fff;
+	background: transparent;
+}
+
+.oneui .mblHeading .mblColorDefault45 {
+	background: transparent; 
+}
+
+.oneui .mblHeading .mblColorDefaultSel {
+	background: transparent; 
+}
+
+.oneui .mblHeading .mblColorDefaultSel45 {
+	background: transparent; 
+}
+
+.oneui.mobile body {
+	overflow-x:hidden;
+	background-color:#fff;
+	color:#222;
+	font-size:17px;
+	font-family:Roboto,"Helvetica Neue","Droid Sans",sans-serif;
+	-webkit-text-size-adjust:none;
+}

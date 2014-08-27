@@ -1,0 +1,6 @@
+/* delegate to oneui common theme */
+@import url(../../common/idx/Launch.css);
+
+.mblIdxLaunch .mblIdxLoading .mblIdxLoadingMessage {
+	font-family:Roboto;
+}

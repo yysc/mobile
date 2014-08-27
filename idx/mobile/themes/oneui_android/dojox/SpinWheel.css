@@ -1,0 +1,8 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/SpinWheel.css);
+
+/* Reset common styles. */
+.oneui .mblSpinWheel,
+.oneui .mblSpinWheel * {
+	font-family:Roboto;
+}

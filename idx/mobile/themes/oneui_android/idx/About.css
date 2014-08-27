@@ -1,0 +1,14 @@
+/* delegate to oneui common theme */
+@import url(../../common/idx/About.css);
+
+.mblIdxAboutPane .mblIdxProductName {
+	font-family:Roboto;
+}
+
+.mblIdxAboutPane .mblIdxInformational {
+	font-family:Roboto;
+}
+
+.mblIdxAboutPane .mblIdxLegal {
+	font-family:Roboto;
+}

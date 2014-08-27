@@ -1,0 +1,7 @@
+/* delegate to oneui common theme */
+@import url(../../common/dojox/Pane.css);
+
+/* Reset common styles. */
+.oneui .mblPane {
+	font-family:Roboto;
+}
